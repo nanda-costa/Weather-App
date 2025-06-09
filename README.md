@@ -18,11 +18,17 @@ We use predefined latitude and longitude coordinates from various cities to fetc
 The app is functional, but there are still some improvements and bug fixes to be made. Here's what's on our radar:
 
 - [ ] 🔑 Add your API key to the `local.properties` file:
-`WEATHER_API_KEY= <your-api-key-here>`
-- [ ] 📊 Fetch and display **pressure** data from the API
-- [ ] 🔄 Implement data refresh on **Refresh** button click
-- [ ] 🎨 Fix broken **weather icons**
-- [ ] 🧹 Eliminate **duplicate data** issues
+`WEATHER_API_KEY= <your-api-key-here>` - OK
+- [ ] 📊 Fetch and display **pressure** data from the API -OK
+- [ ] 🔄 Implement data refresh on **Refresh** button click - OK
+- [ ] 🎨 Fix broken **weather icons** - OK
+- [ ] 🧹 Eliminate **duplicate data** issues - OK
+
+## Demonstração em vídeo
+
+[Assista ao vídeo aqui gravado por mim](## Demonstração em vídeo
+
+[Assista ao vídeo aqui](https://drive.google.com/seu-link-aqui))
 
 ---
 
@@ -36,4 +42,6 @@ Bring your problem-solving skills, creativity, and caffeine if needed — and le
 Ready?
 **Go go go...**
 🚀🚀🚀🚀🚀🚀🚀🚀🚀
+
+
 
