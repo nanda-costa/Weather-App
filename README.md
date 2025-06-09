@@ -28,7 +28,7 @@ The app is functional, but there are still some improvements and bug fixes to be
 
 [Assista ao vídeo aqui gravado por mim](## Demonstração em vídeo
 
-[Assista ao vídeo aqui](https://drive.google.com/file/d/1LIhSCKlQuNJ0I-dRcQRuatuaoFzWe-re/view?usp=sharing))
+[Assista ao vídeo aqui, copie e cole esse link no navegador e assista](https://drive.google.com/file/d/1LIhSCKlQuNJ0I-dRcQRuatuaoFzWe-re/view?usp=sharing))
 
 ---
 
